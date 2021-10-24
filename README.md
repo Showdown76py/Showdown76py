@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Showdown76py
-- 👀 My project is Univers
+- 👀 My projects are Univers and https://show-nosql.com/
 - 🌱 I’m currently learning nothing
 - 🐍 I code Python
 - 📫 Discord: Showdown76#0001
