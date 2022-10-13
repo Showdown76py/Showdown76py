@@ -7,7 +7,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=showdown76py&count_private=True&show_icons=True&bg_color=0d1117&hide_border=False" alt="Showdown76" />
 </a>
 <a href="#" style="float:right;display:flex">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=showdown76py&layout=compact&bg_color=0d1117&hide_border=False" alt="Showdown76" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showdown76py&layout=compact&bg_color=0d1117&hide_border=False" alt="Showdown76" />
 </a>
 
 <!---
