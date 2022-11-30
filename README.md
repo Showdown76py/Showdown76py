@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Showdown76py
-- 👀 My projects are Univers, <strike>https://v3.show-nosql.com/</strike> and [**Univers Account Protector for Discord**](https://github.com/Showdown76py/discord-protector/)
-- 🌱 I’m currently learning nothing
-- 🐍 I code Python
+- 👀 My projects are Univers, <strike>https://v3.show-nosql.com/</strike>, [**Univers Account Protector for Discord**](https://github.com/Showdown76py/discord-protector/) and [**PCOverPhone**](https://github.com/Showdown76py/pcoverphone/)
+- 🌱 I’m currently learning SQL
+- 🐍 I code Python, HTML/CSS/JS
+- 🖊️ Pentester
 - 📫 Discord: Showdown76#0001
 <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=showdown76py&count_private=True&show_icons=True&bg_color=0d1117&hide_border=False" alt="Showdown76" />
