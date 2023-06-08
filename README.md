@@ -21,11 +21,11 @@ Or check out my other projects on [🔗GitHub](https://github.com/Showdown76py).
 
 <div style="width:100%;display: flex;justify-content: center;">
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=showdown76py&count_private=True&show_icons=True&bg_color=0d1117&hide_border=True&card_width=350" alt="Showdown76" style="border-radius:0" />
+<img src="https://stats-lilac.vercel.app/api?username=showdown76py&count_private=True&show_icons=True&bg_color=0d1117&hide_border=True&card_width=350" alt="Showdown76" style="border-radius:0" />
 </a>
  <br/>
 <a href="#">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=showdown76py&layout=compact&bg_color=0d1117&hide_border=True&card_width=438" alt="Showdown76" />
+<img src="https://stats-lilac.vercel.app/api/top-langs/?username=showdown76py&layout=compact&bg_color=0d1117&hide_border=True&card_width=438" alt="Showdown76" />
 </a>
 </div>
 
