@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/90180962?v=4" width="120" height="120" style="border-radius:50%;">
+  <img src="https://avatars.githubusercontent.com/u/66854264?v=4" width="120" height="120" style="border-radius:50%;">
 </p>
 
 <p align="center">
