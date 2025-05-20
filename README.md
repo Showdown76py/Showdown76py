@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/901809620165722112" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/901809620165722112?theme=dark&bg=6e07eb&borderRadius=10px&idleMessage=Probably%20coding..." />
+    <img src="https://lanyard.cnrad.dev/api/901809620165722112?theme=dark&bg=6e07eb&borderRadius=10px&idleMessage=That's+me!" />
   </a>
 </p>
 
@@ -34,10 +34,10 @@
 
 <p align="center">
   <a href="https://github.com/Showdown76py/discord-protector" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Showdown76py&repo=discord-protector&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Showdown76py&repo=discord-protector&theme=tokyonight&hide_border=true&border_radius=12.5" height="130"/>
   </a>
   <a href="https://github.com/Showdown76py/tesla-over-discord" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Showdown76py&repo=tesla-over-discord&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Showdown76py&repo=tesla-over-discord&theme=tokyonight&hide_border=true&border_radius=12.5" height="130"/>
   </a>
 </p>
 
@@ -50,8 +50,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://stats-lilac.vercel.app/api?username=Showdown76py&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" height="180">
-  <img src="https://stats-lilac.vercel.app/api/top-langs/?username=Showdown76py&layout=compact&theme=tokyonight&hide_border=true" height="180">
+  <img src="https://stats-lilac.vercel.app/api/top-langs/?username=Showdown76py&layout=compact&theme=tokyonight&hide_border=true&border_radius=12.5" height="180">
+  <img src="https://stats-lilac.vercel.app/api?username=Showdown76py&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12.5" height="180">
 </p>
 
 <h2 align="center">📫 Reach Me</h2>
