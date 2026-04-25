@@ -36,8 +36,8 @@
   <a href="https://github.com/Showdown76py/discord-protector" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Showdown76py&repo=discord-protector&theme=tokyonight&hide_border=true&border_radius=12.5" height="130"/>
   </a>
-  <a href="https://github.com/Showdown76py/tesla-over-discord" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Showdown76py&repo=tesla-over-discord&theme=tokyonight&hide_border=true&border_radius=12.5" height="130"/>
+  <a href="https://github.com/Showdown76py/authlix-py" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Showdown76py&repo=authlix-py&theme=tokyonight&hide_border=true&border_radius=12.5" height="130"/>
   </a>
 </p>
 
