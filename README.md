@@ -44,7 +44,7 @@
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&perline=6&i=python,js,html,css,mysql,sqlite,git,linux,bash,git,vscode" />
+  <img src="https://skillicons.dev/icons?theme=dark&perline=6&i=python,js,html,css,mysql,sqlite,linux,bash,git,vscode,discord,cloudflare,gcp" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
