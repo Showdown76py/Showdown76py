@@ -1,66 +1,89 @@
 <div align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=AB4DFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Showdown76;Pentester,+Developer,+Tech+Enthusiast+⚡"
-  />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=900&color=AB4DFF&center=true&vCenter=true&width=760&height=60&lines=lony%3A~%24+whoami;python%2C+mostly.+sometimes+too+much+python.;MCP+servers%2C+game+panels%2C+a+bit+of+offsec">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=900&color=6E07EB&center=true&vCenter=true&width=760&height=60&lines=lony%3A~%24+whoami;python%2C+mostly.+sometimes+too+much+python.;MCP+servers%2C+game+panels%2C+a+bit+of+offsec">
+  <img alt="lony:~$ whoami. python, mostly. MCP servers, game panels, a bit of offsec." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=900&color=6E07EB&center=true&vCenter=true&width=760&height=60&lines=lony%3A~%24+whoami;python%2C+mostly.+sometimes+too+much+python.;MCP+servers%2C+game+panels%2C+a+bit+of+offsec">
+</picture>
+
+**Lony** · INSA Rennes · 🇫🇷 🇬🇧
+
+[showdown.boo](https://showdown.boo) &nbsp;·&nbsp; [me@showdown.boo](mailto:me@showdown.boo)
+
+<a href="https://discord.com/users/901809620165722112">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/901809620165722112?theme=dark&bg=6E07EB&borderRadius=10px&idleMessage=somewhere+in+a+terminal">
+  <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/901809620165722112?theme=light&borderRadius=10px&idleMessage=somewhere+in+a+terminal">
+  <img alt="Discord presence" src="https://lanyard.cnrad.dev/api/901809620165722112?theme=light&borderRadius=10px&idleMessage=somewhere+in+a+terminal">
+</picture>
+</a>
+
 </div>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/66854264?v=4" width="150" style="border-radius:50%;">
-</p>
+## whoami
 
-<p align="center">
-  <a href="https://showdown.boo" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-Showdown.boo-6e07eb?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://github.com/Showdown76py" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Showdown76py?label=Follow&style=for-the-badge&logo=github">
-  </a>
-</p>
+French engineering student, and the answer to most of my problems is Python.
 
+Lately that means MCP servers: the glue that lets a model reach real infrastructure, from a Proxmox cluster down to the BMC of a machine that stopped answering. The rest of my time goes to security, or to Minecraft and CS2.
 
-<p align="center">
-  <a href="https://discord.com/users/901809620165722112" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/901809620165722112?theme=dark&bg=6e07eb&borderRadius=10px&idleMessage=That's+me!" />
-  </a>
-</p>
+I care more about the protocol than the interface.
 
-<h2 align="center">👋 About Me</h2>
+## what I'm building
 
-<p align="center">
-  I'm <b>Lony</b> — an avid <i>developer</i>, <i>penetration tester</i> and <i>life-long hacker</i>. I love reverse-engineering, hardware tinkering and turning caffeine into <code>python</code>.
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<h2 align="center">🚀 Featured Projects</h2>
+<a href="https://github.com/Showdown76py/BeaconMCP">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats-lilac.vercel.app/api/pin/?username=Showdown76py&repo=BeaconMCP&hide_border=true&border_radius=12&bg_color=0D1117&title_color=AB4DFF&text_color=C9D1D9&icon_color=AB4DFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats-lilac.vercel.app/api/pin/?username=Showdown76py&repo=BeaconMCP&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=6E07EB&text_color=24292F&icon_color=6E07EB">
+  <img alt="BeaconMCP repository card" src="https://stats-lilac.vercel.app/api/pin/?username=Showdown76py&repo=BeaconMCP&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=6E07EB&text_color=24292F&icon_color=6E07EB">
+</picture>
+</a>
 
-<p align="center">
-  <a href="https://github.com/Showdown76py/beaconmcp" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Showdown76py&repo=beaconmcp&theme=tokyonight&hide_border=true&border_radius=12.5" height="130"/>
-  </a> 
-  <a href="https://github.com/Showdown76py/authlix-py" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Showdown76py&repo=authlix-py&theme=tokyonight&hide_border=true&border_radius=12.5" height="130"/>
-  </a>
-</p>
+One MCP endpoint for a Proxmox cluster, the BMCs under it (iLO, IPMI) and plain SSH hosts. Power-cycling a frozen node shouldn't mean opening four web UIs.
 
-<h2 align="center">🛠 Tech Stack & Tools</h2>
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&perline=6&i=python,js,html,css,mysql,sqlite,linux,bash,git,vscode,discord,cloudflare,gcp" />
-</p>
+<a href="https://github.com/Showdown76py/PteroMCP">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats-lilac.vercel.app/api/pin/?username=Showdown76py&repo=PteroMCP&hide_border=true&border_radius=12&bg_color=0D1117&title_color=AB4DFF&text_color=C9D1D9&icon_color=AB4DFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats-lilac.vercel.app/api/pin/?username=Showdown76py&repo=PteroMCP&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=6E07EB&text_color=24292F&icon_color=6E07EB">
+  <img alt="PteroMCP repository card" src="https://stats-lilac.vercel.app/api/pin/?username=Showdown76py&repo=PteroMCP&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=6E07EB&text_color=24292F&icon_color=6E07EB">
+</picture>
+</a>
 
-<h2 align="center">📊 GitHub Stats</h2>
+The same idea for Pterodactyl and its Pelican fork. An agent can create a server, edit its files, restart it and read the console, all through the panel's own API.
 
-<p align="center">
-  <img src="https://stats-lilac.vercel.app/api/top-langs/?username=Showdown76py&layout=compact&theme=tokyonight&hide_border=true&border_radius=12.5" height="180">
-  <img src="https://stats-lilac.vercel.app/api?username=Showdown76py&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12.5" height="180">
-</p>
+</td>
+</tr>
+</table>
 
-<h2 align="center">📫 Reach Me</h2>
+## stack
 
-<p align="center">
-  <a href="mailto:me@showdown.boo" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Email-me@showdown.boo-AB4DFF?style=for-the-badge&logo=mail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Showdown76py?tab=repositories" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/GitHub-Profile-FF8906?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=8&i=python%2Cflask%2Cfastapi%2Cdiscord%2Cjs%2Chtml%2Ccss%2Cbash%2Cubuntu%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Csqlite%2Ccloudflare%2Cgcp">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=8&i=python%2Cflask%2Cfastapi%2Cdiscord%2Cjs%2Chtml%2Ccss%2Cbash%2Cubuntu%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Csqlite%2Ccloudflare%2Cgcp">
+  <img alt="Python, Flask, FastAPI, Discord, JavaScript, HTML, CSS, Bash, Ubuntu, Docker, Git, GitHub Actions, MySQL, SQLite, Cloudflare, GCP" src="https://skillicons.dev/icons?theme=light&perline=8&i=python%2Cflask%2Cfastapi%2Cdiscord%2Cjs%2Chtml%2Ccss%2Cbash%2Cubuntu%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Csqlite%2Ccloudflare%2Cgcp">
+</picture>
+
+also: `MCP` · `Proxmox` · `Pterodactyl / Pelican` · `iLO / IPMI`
+
+<details>
+<summary><b>stats</b></summary>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats-lilac.vercel.app/api/top-langs/?username=Showdown76py&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=0D1117&title_color=AB4DFF&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats-lilac.vercel.app/api/top-langs/?username=Showdown76py&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=6E07EB&text_color=24292F">
+  <img alt="Most used languages" height="170" src="https://stats-lilac.vercel.app/api/top-langs/?username=Showdown76py&layout=compact&langs_count=8&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=6E07EB&text_color=24292F">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://stats-lilac.vercel.app/api?username=Showdown76py&count_private=true&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=AB4DFF&text_color=C9D1D9&icon_color=AB4DFF">
+  <source media="(prefers-color-scheme: light)" srcset="https://stats-lilac.vercel.app/api?username=Showdown76py&count_private=true&show_icons=true&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=6E07EB&text_color=24292F&icon_color=6E07EB">
+  <img alt="GitHub stats" height="170" src="https://stats-lilac.vercel.app/api?username=Showdown76py&count_private=true&show_icons=true&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=6E07EB&text_color=24292F&icon_color=6E07EB">
+</picture>
+
+</details>
