@@ -61,9 +61,9 @@ The same idea for Pterodactyl and Pelican. An agent can create a server, edit it
 ## stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=8&i=python%2Cswift%2Cflask%2Cfastapi%2Cdiscord%2Cjs%2Chtml%2Ccss%2Cbash%2Cubuntu%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Csqlite%2Ccloudflare%2Cgcp">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=8&i=python%2Cswift%2Cflask%2Cfastapi%2Cdiscord%2Cjs%2Chtml%2Ccss%2Cbash%2Cubuntu%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Csqlite%2Ccloudflare%2Cgcp">
-  <img alt="Python, Swift, Flask, FastAPI, Discord, JavaScript, HTML, CSS, Bash, Ubuntu, Docker, Git, GitHub Actions, MySQL, SQLite, Cloudflare, GCP" src="https://skillicons.dev/icons?theme=light&perline=8&i=python%2Cswift%2Cflask%2Cfastapi%2Cdiscord%2Cjs%2Chtml%2Ccss%2Cbash%2Cubuntu%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Csqlite%2Ccloudflare%2Cgcp">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&perline=8&i=python%2Cflask%2Cfastapi%2Cdiscord%2Cjs%2Chtml%2Ccss%2Cbash%2Cubuntu%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Csqlite%2Ccloudflare%2Cgcp">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?theme=light&perline=8&i=python%2Cflask%2Cfastapi%2Cdiscord%2Cjs%2Chtml%2Ccss%2Cbash%2Cubuntu%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Csqlite%2Ccloudflare%2Cgcp">
+  <img alt="Python, Flask, FastAPI, Discord, JavaScript, HTML, CSS, Bash, Ubuntu, Docker, Git, GitHub Actions, MySQL, SQLite, Cloudflare, GCP" src="https://skillicons.dev/icons?theme=light&perline=8&i=python%2Cflask%2Cfastapi%2Cdiscord%2Cjs%2Chtml%2Ccss%2Cbash%2Cubuntu%2Cdocker%2Cgit%2Cgithubactions%2Cmysql%2Csqlite%2Ccloudflare%2Cgcp">
 </picture>
 
 also: `MCP` · `Proxmox` · `Pterodactyl / Pelican` · `iLO / IPMI`
