@@ -2,10 +2,7 @@
 
 <img alt="Lony. python, MCP servers, a bit of offsec" width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=150&color=0:6E07EB,100:AB4DFF&text=Lony&fontColor=FFFFFF&fontSize=60&fontAlignY=42&desc=python%20%C2%B7%20MCP%20servers%20%C2%B7%20a%20bit%20of%20offsec&descSize=18&descAlignY=72">
 
-<a href="https://showdown.boo"><img alt="showdown.boo" src="https://img.shields.io/badge/showdown.boo-6E07EB?style=for-the-badge"></a>
-<a href="mailto:me@showdown.boo"><img alt="me@showdown.boo" src="https://img.shields.io/badge/me%40showdown.boo-AB4DFF?style=for-the-badge"></a>
-<img alt="INSA Rennes" src="https://img.shields.io/badge/INSA%20Rennes-24292F?style=for-the-badge">
-<img alt="FR / EN" src="https://img.shields.io/badge/FR%20%2F%20EN-24292F?style=for-the-badge">
+[showdown.boo](https://showdown.boo) &nbsp;·&nbsp; [me@showdown.boo](mailto:me@showdown.boo) &nbsp;·&nbsp; INSA Rennes &nbsp;·&nbsp; FR / EN
 
 </div>
 
