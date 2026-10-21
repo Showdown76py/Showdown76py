@@ -8,7 +8,7 @@
 
 ## whoami
 
-French engineering student. When something annoys me long enough, I write the tool that fixes it, usually in Python, in Swift when the problem lives on macOS.
+French engineering student. When something annoys me long enough, I write the tool that fixes it, usually in Python, sometimes in Rust.
 
 So far that's a microphone that ignores my own speakers, MCP servers that let a model reach real infrastructure, a pile of Discord bots and the odd security tool. The rest of the time, I'm probably gaming, studying or hanging out (i touch grass).
 
