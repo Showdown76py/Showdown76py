@@ -1,22 +1,11 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=900&color=AB4DFF&center=true&vCenter=true&width=760&height=60&lines=lony%3A~%24+whoami;python%2C+mostly.+sometimes+too+much+python.;MCP+servers%2C+game+panels%2C+a+bit+of+offsec">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=900&color=6E07EB&center=true&vCenter=true&width=760&height=60&lines=lony%3A~%24+whoami;python%2C+mostly.+sometimes+too+much+python.;MCP+servers%2C+game+panels%2C+a+bit+of+offsec">
-  <img alt="lony:~$ whoami. python, mostly. MCP servers, game panels, a bit of offsec." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3200&pause=900&color=6E07EB&center=true&vCenter=true&width=760&height=60&lines=lony%3A~%24+whoami;python%2C+mostly.+sometimes+too+much+python.;MCP+servers%2C+game+panels%2C+a+bit+of+offsec">
-</picture>
+<img alt="Lony. python, MCP servers, a bit of offsec" width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=150&color=0:6E07EB,100:AB4DFF&text=Lony&fontColor=FFFFFF&fontSize=60&fontAlignY=42&desc=python%20%C2%B7%20MCP%20servers%20%C2%B7%20a%20bit%20of%20offsec&descSize=18&descAlignY=72">
 
-**Lony** · INSA Rennes · 🇫🇷 🇬🇧
-
-[showdown.boo](https://showdown.boo) &nbsp;·&nbsp; [me@showdown.boo](mailto:me@showdown.boo)
-
-<a href="https://discord.com/users/901809620165722112">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/901809620165722112?theme=dark&bg=6E07EB&borderRadius=10px&idleMessage=somewhere+in+a+terminal">
-  <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/901809620165722112?theme=light&borderRadius=10px&idleMessage=somewhere+in+a+terminal">
-  <img alt="Discord presence" src="https://lanyard.cnrad.dev/api/901809620165722112?theme=light&borderRadius=10px&idleMessage=somewhere+in+a+terminal">
-</picture>
-</a>
+<a href="https://showdown.boo"><img alt="showdown.boo" src="https://img.shields.io/badge/showdown.boo-6E07EB?style=for-the-badge"></a>
+<a href="mailto:me@showdown.boo"><img alt="me@showdown.boo" src="https://img.shields.io/badge/me%40showdown.boo-AB4DFF?style=for-the-badge"></a>
+<img alt="INSA Rennes" src="https://img.shields.io/badge/INSA%20Rennes-24292F?style=for-the-badge">
+<img alt="FR / EN" src="https://img.shields.io/badge/FR%20%2F%20EN-24292F?style=for-the-badge">
 
 </div>
 
